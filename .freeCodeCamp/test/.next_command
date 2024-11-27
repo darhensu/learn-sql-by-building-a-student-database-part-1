@@ -7,3 +7,10 @@ ls --color=auto
 git init
 git status
 git add .
+git commit -m "insert data to tables using insert_data.sh worked"
+git push origin master
+git push origin main
+git push --force origin main
+pg_dump
+--help
+pg_dump --help
